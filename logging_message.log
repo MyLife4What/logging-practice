@@ -1,0 +1,10 @@
+2021-11-05 02:27:19,444 root WARNING: WARNING message
+2021-11-05 02:27:19,444 root Level 35: LEVEL(custom log level) message
+2021-11-05 02:27:19,444 root ERROR: ERROR message
+2021-11-05 02:27:19,444 root CRITICAL: CRITICAL message
+2021-11-05 02:27:19,444 foo DEBUG: DEBUG message
+2021-11-05 02:27:19,444 foo INFO: INFO message
+2021-11-05 02:27:19,445 foo WARNING: WARNING message
+2021-11-05 02:27:19,445 foo Level 35: LEVEL(custom log level) message
+2021-11-05 02:27:19,445 foo ERROR: ERROR message
+2021-11-05 02:27:19,445 foo CRITICAL: CRITICAL message
