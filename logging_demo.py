@@ -73,8 +73,7 @@ if __name__ == "__main__":
     print("Logging to ", str(logger))
     logging_test(logger)
 
-    # logging for the 'foo' module
-    new_logger = logging.getLogger("foo")
+    new_logger = logging.getLogger("new")
     new_logger.setLevel(logging.DEBUG)  # log everything
     logging_test(new_logger)
     print("Logging to ", str(new_logger))
